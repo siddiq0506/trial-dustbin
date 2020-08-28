@@ -1,1 +1,2 @@
-# trial-dustbin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
